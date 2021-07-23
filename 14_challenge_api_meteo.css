@@ -1,0 +1,48 @@
+body {
+    background: url('https://source.unsplash.com/6-kTk6B8mq8/1920x1080') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}
+
+h3 {
+    color: black;
+    font-family: 'PT Sans Narrow', sans-serif, 700;
+}
+
+.reponse {
+    text-align: center;
+}
+
+.main {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+form {
+    padding: 3rem !important;
+    width: 25%;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 100%;
+    font-size: 1.5rem;
+}
+
+h3 {
+    text-align: center;
+    display: block;
+}
+
+.col-md5 {
+    padding: 1rem;
+    margin: 1rem;
+    width: 15rem;
+    height: 15rem;
+    text-align: center;
+    font-size: 2rem;
+    line-height: 12.5rem;
+    background-color: rgba(255, 255, 255, .6);
+}
